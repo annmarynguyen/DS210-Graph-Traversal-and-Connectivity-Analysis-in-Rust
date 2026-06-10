@@ -28,7 +28,7 @@ http://snap.stanford.edu/biodata/datasets/10029/10029-SS-Butterfly.html
 
 This project strengthened my understanding of graph traversal, connectivity analysis, strongly connected components, and graph algorithm design in Rust.
 
-## Future Work
+## Future Improvements
 
 * Implement Dijkstra's algorithm
 * Calculate closeness centrality
