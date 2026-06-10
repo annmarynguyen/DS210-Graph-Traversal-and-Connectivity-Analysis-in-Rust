@@ -24,12 +24,12 @@ http://snap.stanford.edu/biodata/datasets/10029/10029-SS-Butterfly.html
 * Explored graph traversal and connectivity in a directed weighted graph
 * Investigated shortest path and centrality methods
 
+## Key Takeaways
+
+This project strengthened my understanding of graph traversal, connectivity analysis, strongly connected components, and graph algorithm design in Rust.
+
 ## Future Work
 
 * Implement Dijkstra's algorithm
 * Calculate closeness centrality
 * Expand graph analysis metrics
-
-## Lessons Learned
-
-This project strengthened my understanding of graph traversal, connectivity analysis, strongly connected components, and graph algorithm design in Rust.
