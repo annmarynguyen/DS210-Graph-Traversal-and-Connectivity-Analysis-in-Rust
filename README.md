@@ -7,6 +7,8 @@
 
 This project explores graph traversal and connectivity analysis using the Butterfly Similarity Network dataset from the Stanford SNAP repository. 
 
+## Dataset 
+
 **Butterfly Similarity Network**
 http://snap.stanford.edu/biodata/datasets/10029/10029-SS-Butterfly.html
 
